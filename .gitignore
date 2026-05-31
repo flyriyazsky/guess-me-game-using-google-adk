@@ -1,0 +1,5 @@
+game_agent/.env
+game_agent/.adk/session.db
+game_agent/__pycache__/__init__.cpython-313.pyc
+game_agent/__pycache__/agent.cpython-313.pyc
+venv/
