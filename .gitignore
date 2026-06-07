@@ -3,3 +3,8 @@ game_agent/.adk/session.db
 game_agent/__pycache__/__init__.cpython-313.pyc
 game_agent/__pycache__/agent.cpython-313.pyc
 venv/
+mcp/uv.lock
+mcp/__pycache__/main.cpython-312.pyc
+mcp/.python-version
+mcp/pyproject.toml
+mcp/mcp.log
